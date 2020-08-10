@@ -17,7 +17,8 @@ Deep Learning for Character Classification on Google Street View Housing Numbers
 
 7. Applying ensemble of neural network classifiers 
 
-Comparison of traditional method (KNN) and Neural Networks using Python and Keras
+8. Comparison of traditional method (KNN) and Neural Networks using Python and Keras
+
 
 
 
